@@ -1,6 +1,4 @@
-Great! Since you've written smart contracts for both staking Ether and staking an ERC20 token, along with an ERC20 token contract, you can structure your README to cover all these components. Below is an extended README template that includes details for all three contracts:
 
----
 
 # Staking Contracts and ERC20 Token
 
